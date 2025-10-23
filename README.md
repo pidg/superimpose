@@ -28,7 +28,7 @@ You may also need to install poppler:
 
 1. Create your booklet or zine at A5 or A6 size using your favourite document creation tool.
 2. Export it with a normal page order (1, 2, 3, 4... you get the idea). Due to how booklets work, the pages must be a multiple of 4 (A5) or 8 (A6).
-3. ``` chmod 0777 superimpose.ch ``` (you only need to do this once)
+3. ``` chmod 0777 superimpose.sh ``` (you only need to do this once)
 4. Run superimpose on your PDF:
 
 ``` ./superimpose.sh pathto/inputdoc.pdf pathto/outputdoc.pdf ```
