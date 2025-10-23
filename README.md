@@ -22,14 +22,15 @@ this is what it does:
 
 You may also need to install poppler:
 1. Install [homebrew](https://brew.sh/) if you don't have it
-2. brew install poppler
+2. ``` brew install poppler ```
 
 ## How to use superimpose
 
 1. Create your booklet or zine at A5 or A6 size using your favourite document creation tool.
 2. Export it with a normal page order (1, 2, 3, 4... you get the idea). Due to how booklets work, the pages must be a multiple of 4 (A5) or 8 (A6).
-3. Run superimpose on your PDF:
+3. ``` chmod 0777 superimpose.ch ``` (you only need to do this once)
+4. Run superimpose on your PDF:
 
 ``` ./superimpose.sh pathto/inputdoc.pdf pathto/outputdoc.pdf ```
 
-4. That's it!
+5. That's it!
