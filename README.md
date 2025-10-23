@@ -1,6 +1,6 @@
 # superimpose
 
-superimpose is a bash script for macOS.
+superimpose is a bash script for macOS. (it may work on other systems with some prodding)
 
 you can use it for A4 PDF booklet imposition. it converts A5/A6 documents into print-ready A4 spreads for folded booklet print production.
 
