@@ -3,7 +3,7 @@
 # Check if both parameters provided
 if [ -z "$1" ] || [ -z "$2" ]; then
     echo "superimpose - turns A5 and A6 PDFs into print-ready A4 layouts"
-    echo "Usage: ./impose.sh input.pdf output.pdf"
+    echo "Usage: ./superimpose.sh input.pdf output.pdf"
     exit 1
 fi
 
