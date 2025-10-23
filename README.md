@@ -24,7 +24,7 @@ You may also need to install poppler:
 1. Install [homebrew](https://brew.sh/) if you don't have it
 2. brew install poppler
 
-## How to use superimpose
+## How to use superimpose
 
 1. Create your booklet or zine at A5 or A6 size using your favourite document creation tool.
 2. Export it with a normal page order (1, 2, 3, 4... you get the idea). Due to how booklets work, the pages must be a multiple of 4 (A5) or 8 (A6).
