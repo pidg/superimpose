@@ -18,7 +18,7 @@ this is what it does:
 ## How to set up superimpose
 
 1. Download superimpose.sh
-2. Download and install [MaCTeX](https://www.tug.org/mactex/mactex-download.html) - this is required for pdfjam
+2. Download and install [MacTeX](https://www.tug.org/mactex/mactex-download.html) - this is required for pdfjam
 
 You may also need to install poppler:
 1. Install [homebrew](https://brew.sh/) if you don't have it
