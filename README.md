@@ -6,7 +6,7 @@ you can use it for A4 PDF booklet imposition. it converts A5/A6 documents into p
 
 it's intended for people making zines and other small publications on their home printer who have found that:
 
-- popular publishing apps like Affinity Publisher *suck* at zine imposition
+- popular publishing apps like Affinity Publisher *suck* at imposition
 - good imposition software costs $ $ $ (e.g. $599)
 
 this is what it does:
